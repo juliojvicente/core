@@ -17,7 +17,7 @@
         "Exécution du scénario ": "Ejecución de escena",
         " déclenché par : ": "originado por:",
         "Fin correcte du scénario": "Escena finalizada correctamente",
-        "Lancement du scénario en mode synchrone": "Lancement du scénario en mode synchrone",
+        "Lancement du scénario en mode synchrone": "Lanzamiento de escenario en modo síncrono",
         "Scénario exécuté sur événement : #": "Escena ejecutada sobre evento: #",
         "Aucun": "Ningún"
     },
@@ -27,17 +27,17 @@
     "core/class/plugin.class.php": {
         "Inconnue": "Desconocido",
         "Gestion automatique désactivée": "Gestión automática desactivada",
-        "Erreur sur la fonction cron du plugin : ": "Erreur sur la fonction cron du plugin :",
-        "Erreur sur la fonction cronHourly du plugin : ": "Erreur sur la fonction cronHourly du plugin :",
+        "Erreur sur la fonction cron du plugin : ": "Error sobre la función cron del plugin :",
+        "Erreur sur la fonction cronHourly du plugin : ": "Error sobre la función cronHourly del plugin :",
         "Lancement de : ": "Ejecutando:",
         "Erreur sur la fonction cron30 du plugin : ": "Error en la función cron30 del plugin :",
         "Erreur sur la fonction cronDaily du plugin : ": "Error en la función cronDaily del plugin:",
-        "Attention, installation des dépendances lancée": "Attention, installation des dépendances lancée",
+        "Attention, installation des dépendances lancée": "Atención, instalación de dependencias lanzada",
         "Dépendances non installées": "Dependencias no instaladas",
-        "Vous devez attendre au moins 60s entre 2 lancements d'installation de dépendances": "Vous devez attendre au moins 60s entre 2 lancements d'installation de dépendances",
+        "Vous devez attendre au moins 60s entre 2 lancements d'installation de dépendances": "Debe esperar un minimo de 60 segundos, entre dos lanzamientos de instalación de dependencias",
         "Dépendances en cours d'installation": "Instalación de dependencias en curso",
-        "Les dépendances sont déja en cours d'installation": "Les dépendances sont déja en cours d'installation",
-        "Vous devez attendre au moins 45s entre 2 lancements du démon": "Vous devez attendre au moins 45s entre 2 lancements du démon",
+        "Les dépendances sont déja en cours d'installation": "La instalación de dependencia se encuentra en curso",
+        "Vous devez attendre au moins 45s entre 2 lancements du démon": "Debe esperar un mínimo de 45 segundos entre dos lanzamientos de la función daemon",
         "Erreur sur la fonction deamon_start du plugin : ": "Error en la función daemon_start del plugin :"
     },
     "core/php/jeeListener.php": {
@@ -64,9 +64,9 @@
         " seconde(s)": "segundo(s)",
         "Lancement du scénario : ": "Ejecución de escena:",
         "Lancement provoqué": "Ejecución forzada",
-        "Arret du scénario": "Arret du scénario",
-        "Ajout de l'alerte : ": "Ajout de l'alerte :",
-        "Affichage du popup : ": "Affichage du popup :"
+        "Arret du scénario": "Detener escenario",
+        "Ajout de l'alerte : ": "Añadir alerta :",
+        "Affichage du popup : ": "Pantalla emergente :"
     },
     "core/class/scenarioElement.class.php": {
         "Non exécution des actions pour cause de répétition": "No aplicar las medidas por causa de la repetición"
@@ -101,7 +101,7 @@
         "Gestion des plugins": "Gestión de plugins",
         "Protocole domotique": "Protocolo domótico",
         "Communication": "Comunicación",
-        "Objets communicants": "Objets communicants",
+        "Objets communicants": "Comunicar objetos",
         "Energie": "Energía",
         "Monitoring": "Monitorización",
         "Multimédia": "Multimedia",
